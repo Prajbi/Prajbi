@@ -1,4 +1,28 @@
-## Hi there 👋
+# Hi, I'm Prajwal Biradar 👋
+
+💻 Software Engineering & AI/ML Student
+
+🚀 Currently Building:
+- AI Memory Assistant
+- Agentic AI Projects
+- Full Stack Applications
+
+## 🛠 Tech Stack
+- Java
+- Python
+- JavaScript
+- Spring Boot
+- React
+- Node.js
+- MySQL
+- Git & GitHub
+
+## 📌 Featured Projects
+- AI Memory Assistant
+- StudyMind
+- GeneGuard AI
+
+📫 Connect with me on LinkedIn## Hi there 👋
 
 <!--
 **Prajbi/Prajbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
